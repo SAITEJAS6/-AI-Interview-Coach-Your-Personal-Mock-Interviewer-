@@ -22,16 +22,16 @@ Features
 
  Installation
 
-1️⃣ Clone the Repository
+1 Clone the Repository
 
 git clone https://github.com/yourusername/ai-interview-coach.git
 cd ai-interview-coach
 
-2️⃣ Install Dependencies
+2 Install Dependencies
 
 pip install -r requirements.txt
 
-3️⃣ Run the Application
+3 Run the Application
 
 python interview_coach.py
 python tkinter_gui.py
